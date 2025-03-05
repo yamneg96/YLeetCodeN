@@ -25,5 +25,6 @@ public class M7 {
     M7 obj = new M7();
     int result = obj.reverse(n);
     System.out.println(result);
+    input.close();
   }
 }
