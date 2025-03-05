@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TwentySevenE {
+public class E27 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Enter Array Length: ");
