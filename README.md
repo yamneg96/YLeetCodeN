@@ -21,7 +21,7 @@ To keep things organized, I've come up with a simple naming system for the probl
 * **E**, **M**, or **H**:  Indicates the difficulty (Easy, Medium, Hard).
 * **Number**:  The problem's number on LeetCode.
 
-For example:
+### For example:
 
 * **E13** → Easy problem number 13
 * **M234** → Medium problem number 234
