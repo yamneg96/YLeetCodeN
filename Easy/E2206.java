@@ -16,7 +16,7 @@ public class E2206{
           //  System.out.println(newarr[i]);
           //  System.out.println(nums[i]);
           //  System.out.println(i);
-          
+
         }
       }
       return true;
@@ -35,5 +35,10 @@ public class E2206{
     boolean result = divideArray(nums);
     System.out.println(result);
     input.close();
+
+    // int[] nums = {1, 2, 3, 4, 5, 6};
+    // boolean result = divideArray(nums);
+    // System.out.println(result);
+      
   }
 }
