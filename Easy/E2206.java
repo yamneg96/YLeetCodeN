@@ -14,7 +14,9 @@ public class E2206{
         if((nums[i] < nums[i++]) && i++ <= len){
           newarr[i] = nums[i];
           //  System.out.println(newarr[i]);
-          //
+          //  System.out.println(nums[i]);
+          //  System.out.println(i);
+          
         }
       }
       return true;
