@@ -13,6 +13,8 @@ public class E2206{
       for (int i=0; i<len; i++){
         if((nums[i] < nums[i++]) && i++ <= len){
           newarr[i] = nums[i];
+          //  System.out.println(newarr[i]);
+          //
         }
       }
       return true;
