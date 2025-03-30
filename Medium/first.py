@@ -8,3 +8,13 @@ age += 5
 age = input("Enter your age: ")
 print("Your age is: " + str(age))
 printf("Your age is: %d" % age)
+
+#conditionals
+if(age > 18):
+    print("You are an adult.")
+elif(age == 18):
+    print("You are 18 years old.")
+else:
+    print("You are a minor.")
+
+
