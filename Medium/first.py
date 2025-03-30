@@ -17,4 +17,10 @@ elif(age == 18):
 else:
     print("You are a minor.")
 
+# Python Data Types
+#integer
+#Integer is a whole number without a decimal point.
+#Integers can be positive or negative.
+myInt = 10
+
 
