@@ -30,4 +30,11 @@ isTrue = True
 #List is a collection of items enclosed in square brackets.
 #Lists are mutable.
 myList = [1, 2, 3, 4, 5]
-
+#tuple
+#Tuple is a collection of items enclosed in parentheses.
+#Tuples are immutable.
+myTuple = (1, 2, 3, 4, 5)
+#dictionary
+#Dictionary is a collection of key-value pairs enclosed in curly braces.
+#Dictionaries are mutable.
+myDict = {"name": "John Doe", "age": 25, "height": 5.9}
