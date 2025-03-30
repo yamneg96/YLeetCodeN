@@ -23,4 +23,11 @@ else:
 #Integers can be positive or negative.
 myInt = 10
 
+#boolean
+#Boolean is a data type that can be either True or False.
+isTrue = True
+#list
+#List is a collection of items enclosed in square brackets.
+#Lists are mutable.
+myList = [1, 2, 3, 4, 5]
 
