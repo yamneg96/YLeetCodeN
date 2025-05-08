@@ -30,6 +30,6 @@ public class H214 {
     public static void main(String[] args) {
         H214 h214 = new H214();
         System.out.println(h214.shortestPalindrome("aacecaaa"));
-        System.out.println(h214.shortestPalindrome("abcd"));
+        // System.out.println(h214.shortestPalindrome("abcd"));
     }
 }
