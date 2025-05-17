@@ -18,6 +18,6 @@ public class M767 {
   public static void main(String[] args) {
     System.out.println(new M767().reorganizeString("aab"));
     System.out.println(new M767().reorganizeString("aaab"));
-    System.out.println(new M767().reorganizeString("aabbcc"));
+    // System.out.println(new M767().reorganizeString("aabbcc"));
   }
 }
